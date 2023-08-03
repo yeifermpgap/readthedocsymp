@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'GAP Home Bot'
+copyright = '2023, Sabaneta'
 author = 'Graziella'
 
 release = '0.1'
